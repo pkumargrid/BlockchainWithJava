@@ -1,0 +1,13 @@
+Alice
+Bob
+Nick
+ShoesShop
+FastFood
+CarShop
+Worker1
+Worker2
+Worker3
+Director1
+CarPartsShop
+GamingShop
+BeautyShop
