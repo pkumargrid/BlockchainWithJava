@@ -14,7 +14,7 @@ In this stage, you need to implement transactions like this instead of text mess
 
 Example
 In the output example, VC stands for Virtual Coins. To be tested successfully, program should output information about first fifteen blocks of the blockchain. Blocks should be separated by an empty line.
-'''
+```
 Block:
 Created by: miner9
 miner9 gets 100 VC
@@ -89,4 +89,4 @@ Block was generating for 5 seconds
 N was increased to 4
 
 ... (another 10 blocks, so the output contains 15 blocks)
-'''
+```
