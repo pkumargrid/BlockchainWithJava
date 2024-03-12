@@ -1,7 +1,7 @@
-**Description**
+##Description
 
-Stage 6/6: Local currency
-Description
+##Stage 6/6: Local currency
+
 Today, the most common application of blockchains is cryptocurrencies. A cryptocurrency’s blockchain contains a list of transactions: everyone can see the transactions but no one is able to change them. In addition, no one can send a transaction as another person; this is possible using digital signatures. You have actually implemented all of this functionality in the previous stages.
 
 A miner who creates a new block should be awarded some virtual money, for example, 100 virtual coins. This can be remembered in the blockchain if the block stores information about the miner who created this block. Of course, this message also should be proved, so the miner adds this information to the blockchain before starting a search for a magic number.
